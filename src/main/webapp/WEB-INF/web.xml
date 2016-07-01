@@ -30,9 +30,6 @@
     <listener>
         <listener-class>com.sun.faces.config.ConfigureListener</listener-class>
     </listener>
-    <listener>
-        <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
-    </listener>
     <context-param>
         <param-name>javax.faces.FACELETS_REFRESH_PERIOD</param-name>
         <param-value>0</param-value>
